@@ -12,7 +12,7 @@ footer {
     padding: 20px 0px 20px 0px;
     color:black;
 }
-
-container {
-    padding: 50px 0px 50px 0px;
+.navbar-dark {
+    background-color: #910773;
 }
+
